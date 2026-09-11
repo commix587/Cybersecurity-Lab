@@ -40,9 +40,9 @@ To  built this isolated virtual lab to practice penetration testing and ethical 
 
 ## Author
    Victor Mosha
-     Cybersecurity Professional
+    -  Cybersecurity Professional
    
-## LinkedIn: [https://lnkd.in/p/eFxgFtyu]
+## LinkedIn: https://lnkd.in/p/eFxgFtyu
    
 
 
