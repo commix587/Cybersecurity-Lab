@@ -24,8 +24,8 @@ To  built this isolated virtual lab to practice penetration testing and ethical 
 
 
 ## Tools
-  ** Virtual Machine:** Virtual Box
-  ** Operating System:** Kali Linux
+   -  Virtual Machine:** Virtual Box
+   -  Operating System:** Kali Linux
 
 ## Steps 
 1. Install 7-zip
