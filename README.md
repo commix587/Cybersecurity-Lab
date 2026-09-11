@@ -24,16 +24,26 @@ To  built this isolated virtual lab to practice penetration testing and ethical 
 
 
 ## Tools
-   -  Virtual Machine:VirtualBox
-   -  Operating System:Kali Linux
+   -  7-zip:https://7-zip.org/download.html
+   -  VirtualBox:https://virtualbox.org/wiki/Downloads
+   -  Kali Linux: https://kali.org/get-kali
+     
 
 ## Steps 
 1. Install 7-zip
-2. Installed Virtual Box .
-3. Create NAT network.
+2. Installed Virtual Box 
+3. Create NAT network
 4. Import Kali Linux
 5. Configure Kali Linux network
 6. Create Virtual Machine snapshot
+
+
+## Author
+   Victor Mosha
+   Cybersecurity Professional
+   
+## LinkedIn:
+   
 
 
 
